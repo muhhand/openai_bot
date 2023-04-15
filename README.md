@@ -4,6 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
+![Screenshot](Screenshot_2023-04-15-20-58-26-112_com.example.chatgpt_app.jpg)
+![Screenshot](Screenshot_2023-04-15-20-57-20-296_com.example.chatgpt_app.jpg)
+![Screenshot](Screenshot_2023-04-15-20-58-40-220_com.example.chatgpt_app.jpg)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
